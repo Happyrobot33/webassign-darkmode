@@ -36,6 +36,10 @@
 	#studentHeader svg {
 		fill: @main-text-color;
 	}
+    
+    html, body {
+        background: @main-color;
+    }
 
 	/* -------------
 	*  Page header 
