@@ -40,6 +40,10 @@
     html, body {
         background: @main-color;
     }
+    
+    .qContent .wa1given {
+        color: @main-text-color
+    }
 
 	/* -------------
 	*  Page header 
