@@ -26,6 +26,14 @@
 		background-color: @main-color;
 		color: @main-text-color;
 	}
+    
+    fieldset, img {
+        filter: invert(1);
+    }
+    
+    .watexsqrtradicandcontent {
+        border-top: 1px solid white;
+    }
 	
 	a,
 	a:link {
@@ -36,6 +44,14 @@
 	#studentHeader svg {
 		fill: @main-text-color;
 	}
+    
+    html, body {
+        background: @main-color;
+    }
+    
+    .qContent .wa1given {
+        color: @main-text-color
+    }
 
 	/* -------------
 	*  Page header 
