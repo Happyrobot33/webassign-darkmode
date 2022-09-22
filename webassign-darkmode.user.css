@@ -31,6 +31,10 @@
         filter: invert(1);
     }
     
+    .waMark.mCorrect .badge img, .waMark.mIncorrect .badge img {
+        filter: none;
+    }
+    
     .watexsqrtradicandcontent {
         border-top: 1px solid white;
     }
